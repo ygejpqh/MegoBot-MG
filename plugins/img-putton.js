@@ -1,3 +1,8 @@
+//ميجو يحبكم 🤭❤️
+//اهينك اذا تغير المصدر
+//قناه المصدر
+//https://whatsapp.com/channel/0029VaRygQcATRSk29RI4P1x
+
 import { googleImage } from '@bochilteam/scraper'
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 if (!text) throw `️ *${usedPrefix + command} سوكونا*`
