@@ -66,4 +66,4 @@
 #### `▢ نشر في هيروكو `
 لمستخدمي هيروكو
 
-[![نشر في هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Botmego/MegoBot-MD1)
+[![نشر في هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Botmego11/MegoBot-MG)
